@@ -1,0 +1,10 @@
+name          'haus-profiles'
+version       '0.1.0'
+source        'https://github.com/abuxton/das_haus.git'
+author        'abuxton'
+license       'Apache 2.0'
+summary       'profiles for various puppet applications'
+description   ''
+project_page  'https://github.com/abuxton/das_haus'
+
+dependency 'puppetlabs/stdlib'
